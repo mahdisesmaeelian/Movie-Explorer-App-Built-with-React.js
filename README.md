@@ -17,6 +17,32 @@ DigiMovies is a React-based movie catalog application that allows users to brows
 
 <img src="/public/localhost_5173_.png" alt="">
 
+## Technologies Used
+
+- React.js (Functional Components & Hooks)
+
+- JavaScript (ES6+)
+
+- Bootstrap for styling
+
+- Lucide Icons
+
+- React Router (if navigation is used)
+
+- Git for version control
+
+## Usage
+
+- Type a search query in the search box to filter movies by title, year, or runtime.
+
+- Use the year range dropdowns to filter movies by release year.
+
+- Sort movies alphabetically using the sort dropdown.
+
+- Navigate through pages using the pagination controls.
+
+- Click the "Reset" button to clear all filters and search queries.
+
 ## Installation
 
 1. Clone the repository:
