@@ -1,0 +1,15 @@
+.card img {
+  height: 260px;
+  object-fit: contain;
+  background-color: #fff;
+}
+
+.SearchIcon {
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.6;
+  width: 20px;
+  height: 20px;
+}
+        
