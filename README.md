@@ -23,7 +23,7 @@ DigiMovies is a React-based movie catalog application that allows users to brows
 
 - JavaScript (ES6+)
 
-- Bootstrap for styling
+- Bootstrap 5 for styling
 
 - Lucide Icons
 
