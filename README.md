@@ -15,7 +15,7 @@ DigiMovies is a React-based movie catalog application that allows users to brows
 
 ## Demo
 
-/public/localhost_5173_.png
+<img src="/public/localhost_5173_.png" alt="">
 
 ## Installation
 
@@ -23,3 +23,13 @@ DigiMovies is a React-based movie catalog application that allows users to brows
 
 ```bash
 git clone https://github.com/mahdisesmaeelian/Movie-Explorer-App-Built-with-React.js.git
+```
+2. Install dependencies
+```bash
+npm install
+```
+3. Run the Project
+```bash
+npm run dev
+```
+
